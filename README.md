@@ -75,10 +75,10 @@ Para estes testes que esperemos que falhe, o requisito será considerado atendid
 </details>
 
 <details>
-  <summary><strong>🛼Executando o Projeto após fazer o requisito bônus</strong></summary>
+  <summary><strong>🛼Executando o Projeto após fazer todos os requisitos/strong></summary>
   <br />
   
-Após implementar o requisito bônus, seu programa deverá ser executável <strong>via linha de comando</strong>.
+Após implementar dos requisitos, seu programa deverá ser executável <strong>via linha de comando</strong>.
 
 O comando a ser executado será `ir`. Para que ele funcione em seu ambiente é preciso antes instalar o próprio código como um pacote pip:
 <code>pip install .</code>
