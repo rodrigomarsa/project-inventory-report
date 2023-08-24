@@ -75,7 +75,7 @@ Para estes testes que esperemos que falhe, o requisito será considerado atendid
 </details>
 
 <details>
-  <summary><strong>🛼Executando o Projeto após fazer todos os requisitos/strong></summary>
+  <summary><strong>🛼Executando o Projeto após fazer todos os requisitos<strong></summary>
   <br />
   
 Após implementar dos requisitos, seu programa deverá ser executável <strong>via linha de comando</strong>.
